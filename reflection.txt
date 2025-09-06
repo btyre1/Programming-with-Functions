@@ -1,0 +1,27 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+While working on an assignment at the beginning of the course, I encountered many problems.
+At first, I wrote everything in one long chunk of code, and it got really confusing. 
+But then I split it up into many functions and it felt way more organized, and if I needed to fix something, I didn’t have to go digging through a ton of code. 
+That’s when I really saw how helpful functions can be.
+
+2. In your judgment, what is the value of test functions?
+
+I think test functions are super helpful because they make sure your code is actually doing what it’s supposed to do. 
+There were times when I thought my code was perfect, but when I ran a test function, I found little mistakes I didn’t even notice. 
+It’s way better to catch those bugs early instead of finding out later when something breaks. 
+Test functions also save time in the long run because you don’t have to manually check everything over and over again. 
+Once you write the tests, you can keep using them to make sure your code still works after you make changes.
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+When I run into a problem in my program, the first thing I do is look at the error message to see if it tells me what line the issue is on. 
+If it’s not clear, I start printing out values at different points in the code to see what’s actually happening. 
+That usually helps me figure out where it’s going wrong. Sometimes I even go back and re-read the instructions to make sure I didn’t miss anything.
+One thing I could do to improve is to use test functions more often instead of waiting until something breaks. 
+That way, I can catch mistakes earlier and not waste time digging through everything.
