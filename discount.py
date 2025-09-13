@@ -7,7 +7,7 @@ and Wednesday, if a customer's subtotal is greater than $50, the
 store will discount the customer's purchase by 10%.
 """
 
-# Import the datatime module so that
+# Import the datetime module so that
 # it can be used in this program.
 from datetime import datetime
 
